@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscripciones</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/styles-inscripciones.css">
+    <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+</head>
+<body>
+    <header>
+        <a href="./index.html"><img src="IMG/logoGC.png"alt=""></a> 
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link1" href="./quienes-somos.html">QUIENES SOMOS</a>
+                    <a class="nav-link" href="./proyecto.html">PROYECTO</a>
+                    <a class="nav-link" href="./actividades.html">ACTIVIDADES</a>
+                    <a class="nav-link" href="./colaborar.html">COLABORAR</a>
+                    <a class="nav-link" href="./inscripciones.html">INSCRIPCIONES</a>
+                </div>
+                <img class="insta" src="IMG/insta.png" alt="">
+              </div>
+            </div>
+          </nav>     
+     </header>
+     <h1><b>I n s c r i p c i o n e s</b></h1>
+     <ul class="list-group">
+        <li class="list-group-item active" aria-current="true">REQUISITOS DE INSCRIPCIÓN:</li>
+        <li class="list-group-item">Tener entre 5 y hasta 11 años</li>
+        <li class="list-group-item">Tener acompañamiento de la familia durante el ciclo lectivo</li>
+      </ul>
+    <img class="insc" src="/IMG/Inscripciones.jpg" alt="">
+    <img class="log" src="/IMG/gc.png" alt="">
+    <section>
+    <div class="para">
+      <p>Para comenzar con el proceso de inscripción deben completar el siguiente formulario</p>
+    </div>
+    </section>
+    </ul>
+    <form class="row1 g-3">
+            <label for="inputNombreApellido" class="form-label1"><b>Nombre</b></label>
+        <div class="col-md-6">
+            <input type="nombre" class="form-control4 border border-1" id="inputNombre" placeholder="Nombre y Apellido (padre/madre/tutor)">
+        </div>
+        <label for="inputNombre" class="form-label1"><b>Nombre Alumno</b></label>
+        <div class="col-md-6">
+            <input type="nombre" class="form-control4 border border-1" id="inputNombre" placeholder="Nombre Alumno">
+        </div>
+            <label for="inputEmail" class="form-label1"><b>Email</b></label>
+        <div class="col-md-6">
+            <input type="email" class="form-control4 border border-1" id="inputEmail" placeholder="Email *">
+        </div>
+        <label for="inputNumero" class="form-label1"><b>Número de teléfono</b></label>
+        <div class="col-md-6">
+            <input type="email" class="form-control4 border border-1" id="inputEmail" placeholder="Número de teléfono *">
+        </div>
+        <label for="inputTurno" class="form-label1"><b>Turno</b></label>
+        <select class="form-select border border-1" aria-label="Mañana">
+            <option selected>Turno</option>
+            <option value="1">Mañana</option>
+            <option value="2">Tarde</option>
+          </select>
+            <label for="mensaje" class="form-label1"><b>Mensaje</b></label>
+        <div class="mb-3">
+            <textarea class="form-control5 border border-1" id="inputMensaje" rows="3"></textarea>
+        </div>
+        
+            <button type="enviar" class="btn1 btn-primary">Enviar</button>
+        </div>
+    </form>
+
+
+
+     <footer>
+        <h3 class="escribinos">Escribinos</h3>
+        <ul>
+            <li>
+                Manzoni 1360,
+            </li>
+            <li>
+                Gonzalez Catán
+            </li>
+            <li>
+                Provincia de Buenos Aires   
+            </li>
+            <li>
+                Tel. (54)5277 0815
+            </li>
+            <li>
+                info@proyectogc.org
+            </li>
+        <img src="IMG/logoGC_slogan.webp" alt="">
+        </ul>
+            <form class="row g-3">
+                    <label for="inputNombre" class="form-label">Nombre</label>
+                <div class="col-md-6">
+                    <input type="nombre" class="form-control1" id="inputNombre" placeholder="Nombre">
+                </div>
+                    <label for="inputEmail" class="form-label">Email</label>
+                <div class="col-md-6">
+                    <input type="email" class="form-control2" id="inputEmail" placeholder="miemail@mail.com">
+                </div>
+                    <label for="mensaje" class="form-label">Mensaje</label>
+                <div class="mb-3">
+                    <textarea class="form-control3" id="inputMensaje" rows="3"></textarea>
+                </div>
+                   <span class="contanos">Contanos en que podemos ayudarte. 200 caracteres</span>
+                <div class="col-12">
+                    <button type="enviar" class="btn btn-primary">Enviar</button>
+                </div>
+            </form>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+/*
+Barra Nav.
+*/
+
+img {
+   width: 3.7%; margin-top: 15px; margin-left: 15px;
+}
+    
+    
+.insta {
+   width: 2.3%; margin-right: 650px; margin-top: -75px;
+}
+    
+    
+.nav-link {
+   font-family: 'Noto Sans', sans-serif; color: grey; text-decoration: none;
+   margin-top: -23px; margin-left: 3px;
+}
+    
+    
+.nav-link1 {     
+   font-family: 'Noto Sans', sans-serif; text-decoration: none; margin-left: 5px;
+   color: black; margin-top: -15px; width: 135px;
+}
+    
+    
+.navbar-nav { 
+   margin-left: 75px; margin-top: -30px; margin-bottom: -70px;
+}
+    
+    
+a {
+   margin-bottom: 90px;
+}
+
+
+.collapse {
+   margin-left: -2px;
+}
+     
+     
+ div img {
+    width: 100%; margin-left: -2px; margin-top: -2px;
+ }
+
+
+
+/*
+Parrafos
+*/
+
+
+.proy {
+   margin-top: 55px; margin-left: 100px;
+}
+
+
+p {
+   margin-left: 100px; margin-right: 120px;
+}
+
+
+h4 {
+   margin-left: 170px; margin-top: 4px;
+}
+
+
+.shadow-lg{
+   margin-left: 100px; width: 1110px; height: 70px;
+   
+}
+
+
+.img-fluid {
+   width: 25%; margin-left: 100px; margin-top: -30px;
+}
+
+
+h2 {
+   margin-left: 460px; margin-top: -400px;
+}
+
+
+.p-2 {
+  margin-left: 455px; 
+}
+
+
+.child {
+   width: 6%; margin-left: 540px; margin-top: 1px;
+}
+
+
+.apple {
+   width: 6%; margin-left: 785px; margin-top: -203px;
+}
+
+
+.pers {
+   width: 6%; margin-left: 1040px; margin-top: -217px;
+}
+
+
+.cre {
+   margin-left: 520px; margin-top: 10px;
+}
+
+
+.con {
+   margin-left: 745px; margin-top: -60px;
+}
+
+
+.com {
+   margin-left: 1000px; margin-top: -67px; margin-bottom: 160px;
+}
+
+
+span {
+   margin-left: 100px;
+}
+
+
+/*
+Footer
+*/
+
+
+footer {
+    font-family: 'Noto Sans', sans-serif; width: 100%; background-color: #3c4146;
+    margin-top: 20px; padding-top: 40px;
+ }
+     
+     
+ form {
+    color: white; padding-bottom: 40px;
+ }
+     
+     
+ .form-control1 {
+    width: 580px; height: 35px; margin-left: 695px;
+    margin-bottom: -25px; border-radius: 5px; border: none;
+ }
+     
+     
+ .form-control2 {
+    width: 580px; height: 35px; margin-left: 695px; margin-bottom: -25px;
+    border-radius: 5px; border: none;
+ }
+     
+     
+ .form-control3 {
+    width: 580px; height: 70px; margin-left: 695px;
+    border-radius: 5px; border: none;
+ }
+     
+     
+ .row {
+    margin-top: -265px; margin-right: 890px;
+ }
+     
+     
+ .form-label {
+    margin-left: 695px; margin-bottom: -10px;
+ }
+     
+     
+ .contanos {
+    margin-left: 695px; font-size: 0.9rem; color: #6D757D; margin-top: -20px;
+ }
+     
+     
+ ul {
+    list-style: none; font-family: 'Noto Sans', sans-serif; color: white;
+    margin-left: 48px; margin-top: -30px;
+ }
+     
+     
+ ul img {
+    font-family: 'Noto Sans', sans-serif; background-color: white; width: 12%; margin-left: 1px;
+ }
+     
+     
+ h3 {
+    font-family: 'Noto Sans', sans-serif; font-size: 1.4rem; background-color: #28a745;
+    margin-left: 60px; margin-bottom: 40px; margin-right: 680px;
+    padding-left: 10px; padding-top: 8px; padding-bottom: 8px; color: white;
+ }
+     
+     
+ ::placeholder {
+    font-family: 'Noto Sans', sans-serif; font-size: 1rem; padding-left: 10px;
+ }
+     
+     
+ button {
+    font-family: 'Noto Sans', sans-serif; margin-left: 695px; margin-top: -2px;
+    padding: 10px; font-size: 1rem; color: white;
+    border: none; background-color: #0D6EFD; border-radius: 5px;
+ }

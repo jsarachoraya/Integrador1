@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+
+/*
+Barra Nav.
+*/
+
+img {
+    width: 3.7%; margin-top: 15px; margin-left: 15px;
+ }
+     
+     
+ .insta {
+    width: 2.3%; margin-right: 650px; margin-top: -75px;
+ }
+     
+     
+ .nav-link {
+    font-family: 'Noto Sans', sans-serif; color: grey; text-decoration: none;
+    margin-top: -23px; margin-left: 3px;
+ }
+     
+     
+ .nav-link1 {     
+    font-family: 'Noto Sans', sans-serif; text-decoration: none; margin-left: 5px;
+    color: black; margin-top: -15px; width: 135px;
+ }
+     
+     
+ .navbar-nav { 
+    margin-left: 75px; margin-top: -30px; margin-bottom: -70px;
+ }
+     
+     
+ a {
+    margin-bottom: 90px;
+ }
+ 
+ 
+ .collapse {
+    margin-left: -2px;
+ }
+     
+     
+ div img {
+    width: 100%; margin-left: -2px; margin-top: -2px;
+ }
+
+
+ /*
+Parrafos
+*/
+
+
+.quienes {
+    width: 100.6%; height: 450px; margin-left: -8px; margin-top: 5px;
+}
+
+
+.mision {
+    font-family: 'Noto Sans', sans-serif; color: white; margin-top: -280px; 
+    margin-bottom: 40px; margin-left: 370px; font-size: 2.3rem;
+}
+
+
+.promover {
+    font-family: 'Noto Sans', sans-serif; background-color: #0D6EFD; margin-left: -200px;
+}
+
+
+.img-fluid {
+    width: 5.5%; padding-top: 200px; margin-left: 100px;
+}
+
+
+.img-fluid2 {
+    width: 7.5%; margin-top: -140px; margin-left: 200px; 
+}
+
+
+.img-fluid3 {
+    width: 7.5%; margin-top: -190px; margin-left: 980px;
+}
+
+
+.promover {
+    font-family: 'Noto Sans', sans-serif; color: white; background-color: #0D6EFD;
+    margin-left: 30px; padding: 20px;
+}
+
+
+h1 {
+    font-family: 'Noto Sans', sans-serif; color: black;
+    font-size: 2.5rem; margin-top: -55px; margin-left: 570px;
+}
+
+
+h2 {
+    padding: 2px; width: 350px;
+}
+    
+
+.p-1 {
+    font-family: 'Noto Sans', sans-serif; font-size: 1.8rem; color: white;
+    background-color: #28a745; text-align: center; margin-bottom: 290px;
+}
+
+
+
+.edu {
+    margin-left: 100px; margin-top: 40px; text-align: center;
+}
+
+.exc {
+    margin-left: 485px; margin-top: -112px; text-align: center;
+}
+
+.tra {
+    margin-left: 870px; margin-top: -154px; text-align: center;
+}
+
+.emp {
+    margin-left: 100px; margin-top: 70px; text-align: center; 
+}
+
+.equ {
+    margin-left: 485px; margin-top: -175px; text-align: center;
+}
+
+.pro {
+    margin-left: 869px; margin-top: -132px; text-align: center; 
+}
+
+.des {
+    margin-top: 60px; margin-bottom: 40px; margin-left: 485px; text-align: center;
+}
+
+
+
+.p-2-edu {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black;
+    margin-top: -280px; padding-left: -20px; padding-right: 900px;
+}
+
+.p-2-exc {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black; 
+    margin-top: -280px; padding-left: 10px; padding-right: 530px;
+}
+
+.p-2-tra {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black; 
+    margin-top: -280px; padding-left: 20px; padding-right: 150px;
+}
+
+.p-2-emp {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black;
+    margin-top: -280px; padding-left: 10px; padding-right: 920px;
+}
+
+.p-2-equ {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black; 
+    margin-top: -280px; padding-left: 12px; padding-right: 530px;
+}
+
+.p-2-pro {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black; 
+    margin-top: -280px; padding-left: 10px; padding-right: 140px;
+}
+
+.p-2-des {
+    font-family: 'Noto Sans', sans-serif; font-size: 0.9rem; color: black; 
+    margin-top: -280px; margin-bottom: -70px; padding-left: 10px; padding-right: 530px; 
+}
+
+
+
+/*
+Footer
+*/
+
+
+footer {
+    font-family: 'Noto Sans', sans-serif; width: 100%; background-color: #3c4146;
+    margin-top: 20px; padding-top: 40px;
+ }
+     
+     
+ form {
+    color: white; padding-bottom: 40px;
+ }
+     
+     
+ .form-control1 {
+    width: 580px; height: 35px; margin-left: 695px;
+    margin-bottom: -25px; border-radius: 5px; border: none;
+ }
+     
+     
+ .form-control2 {
+    width: 580px; height: 35px; margin-left: 695px; margin-bottom: -25px;
+    border-radius: 5px; border: none;
+ }
+     
+     
+ .form-control3 {
+    width: 580px; height: 70px; margin-left: 695px;
+    border-radius: 5px; border: none;
+ }
+     
+     
+ .row {
+    margin-top: -265px; margin-right: 890px;
+ }
+     
+     
+ .form-label {
+    margin-left: 695px; margin-bottom: -10px;
+ }
+     
+     
+ .contanos {
+    margin-left: 695px; font-size: 0.9rem; color: #6D757D; margin-top: -20px;
+ }
+     
+     
+ ul {
+    list-style: none; font-family: 'Noto Sans', sans-serif; color: white;
+    margin-left: 48px; margin-top: -30px;
+ }
+     
+     
+ ul img {
+    font-family: 'Noto Sans', sans-serif; background-color: white; width: 12%; margin-left: 1px;
+ }
+     
+     
+ h3 {
+    font-family: 'Noto Sans', sans-serif; font-size: 1.4rem; background-color: #28a745;
+    margin-left: 60px; margin-bottom: 40px; margin-right: 680px;
+    padding-left: 10px; padding-top: 8px; padding-bottom: 8px; color: white;
+ }
+     
+     
+ ::placeholder {
+    font-family: 'Noto Sans', sans-serif; font-size: 1rem; padding-left: 10px;
+ }
+     
+     
+ button {
+    font-family: 'Noto Sans', sans-serif; margin-left: 695px; margin-top: -2px;
+    padding: 10px; font-size: 1rem; color: white;
+    border: none; background-color: #0D6EFD; border-radius: 5px;
+ }
